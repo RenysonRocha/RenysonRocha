@@ -1,7 +1,7 @@
 ### Hi, My name is Renyson Rocha 👋
 
-- 🔭 I’m currently working on a Project Core CMP
-- 🌱 I’m currently learning ReactJS and Bootstrap
+- 🔭 I’m currently working on an UniSync Software Project (developed by me)
+- 🌱 I’m currently learning software Architecture
 - 📫 How to reach me: Rocha.renyson@gmail.com
 - 😄 Pronouns: He/Him
   
